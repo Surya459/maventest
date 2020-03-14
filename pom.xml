@@ -38,7 +38,7 @@
   <repository>
    <id>nexus</id>
    <name>maven-releases</name>
-   <url>http://qa4.kpisoft.com:8081/repository/maven-releases/</url>
+   <url>http://13.233.6.144:8081/#browse/browse:maven-releases</url>
   </repository>
   <snapshotRepository>
    <id>nexus</id>
